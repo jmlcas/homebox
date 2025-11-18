@@ -1,6 +1,3 @@
-# homebox
-Homebox - Gestión de activos - Docker compose
+# Homebox
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
