@@ -1,5 +1,3 @@
-version: "3.4"
-
 services:
   
   homebox:
@@ -14,4 +12,3 @@ services:
       - ./homebox-data:/data/
     ports:
       - "8200:7745"
-
