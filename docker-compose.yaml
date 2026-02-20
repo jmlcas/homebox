@@ -8,7 +8,7 @@ services:
       - HBOX_LOG_LEVEL=info
       - HBOX_LOG_FORMAT=text
       - HBOX_WEB_MAX_UPLOAD_SIZE=10
-      - HBOX_OPTIONS_ALLOW_REGISTRATION=true    
+      - HBOX_OPTIONS_ALLOW_REGISTRATION=true
     volumes:
       - ./homebox-data:/data/
     ports:
